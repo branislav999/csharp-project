@@ -1,0 +1,16 @@
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\bin\Debug\net5.0\csharp-project.exe
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\bin\Debug\net5.0\csharp-project.deps.json
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\bin\Debug\net5.0\csharp-project.runtimeconfig.json
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\bin\Debug\net5.0\csharp-project.runtimeconfig.dev.json
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\bin\Debug\net5.0\csharp-project.dll
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\bin\Debug\net5.0\ref\csharp-project.dll
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\bin\Debug\net5.0\csharp-project.pdb
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\obj\Debug\net5.0\csharp-project.csproj.AssemblyReference.cache
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\obj\Debug\net5.0\csharp-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\obj\Debug\net5.0\csharp-project.AssemblyInfoInputs.cache
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\obj\Debug\net5.0\csharp-project.AssemblyInfo.cs
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\obj\Debug\net5.0\csharp-project.csproj.CoreCompileInputs.cache
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\obj\Debug\net5.0\csharp-project.dll
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\obj\Debug\net5.0\ref\csharp-project.dll
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\obj\Debug\net5.0\csharp-project.pdb
+C:\Users\jakob\OneDrive\Desktop\Bane\csharp-project\obj\Debug\net5.0\csharp-project.genruntimeconfig.cache
